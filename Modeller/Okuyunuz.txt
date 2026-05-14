@@ -1,0 +1,2 @@
+Uygulama için kullanılan model https://fasttext.cc/docs/en/crawl-vectors.html adresinden turkish.bin dosyası yüklenerek kullanıma sunulur.
+Dosya boyutundan dolayı github'a yüklenemiyor.
